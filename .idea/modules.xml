@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Input_Generator.iml" filepath="$PROJECT_DIR$/.idea/modules/Input_Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Input_Generator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Input_Generator_main.iml" group="Input_Generator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Input_Generator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Input_Generator_test.iml" group="Input_Generator" />
     </modules>
   </component>
 </project>
